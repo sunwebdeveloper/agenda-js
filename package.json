@@ -1,0 +1,14 @@
+{
+  "name": "agenda_master",
+  "version": "1.0.0",
+  "description": "Agenda desenvolvido no curso de JS moderno",
+  "main": "agenda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael L Santos",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
