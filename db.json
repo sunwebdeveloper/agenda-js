@@ -1,0 +1,40 @@
+{
+  "schedule": [
+    {
+      "name": "Rafael",
+      "email": "rafael@globo.com.br",
+      "phone": "22222-8976",
+      "id": 1
+    },
+    {
+      "name": "Alice",
+      "email": "sunwebdeveloper@gmail.com",
+      "phone": "11234-3456",
+      "id": 2
+    },
+    {
+      "name": "Sergio",
+      "email": "sergio@gmail.com",
+      "phone": "33456-8765",
+      "id": 3
+    },
+    {
+      "name": "Cida",
+      "email": "cida@gmail.com",
+      "phone": "1234-3456",
+      "id": 4
+    },
+    {
+      "name": "teste",
+      "email": "sunwebdeveloper@gmail.com",
+      "phone": "1234-3456",
+      "id": 5
+    },
+    {
+      "name": "Lilian",
+      "email": "lilian@gmail.com",
+      "phone": "98765-8765",
+      "id": 6
+    }
+  ]
+}

@@ -4,11 +4,14 @@
   "description": "Agenda desenvolvido no curso de JS moderno",
   "main": "agenda.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "front": "lite-server",
+    "back": "json-server --watch db.json --port 4000"
   },
   "author": "Rafael L Santos",
   "license": "ISC",
   "dependencies": {
+    "json-server": "^0.14.2",
     "lite-server": "^2.4.0"
   }
 }
