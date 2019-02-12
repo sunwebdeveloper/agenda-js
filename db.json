@@ -25,12 +25,6 @@
       "id": 4
     },
     {
-      "name": "teste",
-      "email": "sunwebdeveloper@gmail.com",
-      "phone": "1234-3456",
-      "id": 5
-    },
-    {
       "name": "Lilian",
       "email": "lilian@gmail.com",
       "phone": "98765-8765",
@@ -41,12 +35,6 @@
       "email": "ola@gmail.com",
       "phone": "22222-8888",
       "id": 7
-    },
-    {
-      "name": "nome",
-      "email": "email@email",
-      "phone": "33333-4444",
-      "id": 8
     }
   ]
 }
