@@ -55,6 +55,7 @@
         };
 
         fetch(endpoint, config)
+            .then(function (res) { return res.json() })
             .then(getContactsSuccess)
             .catch(genericError);
     };
@@ -69,8 +70,9 @@
 
     var genericError = () => console.error(arguments);
     var cleanFields  = () => ui.fields.forEach(field => field.value = '');    
-    var getContactsSuccess = () => {
-        console.log(arguments);
+
+    var getContactsSuccess = function(contacts) {
+        console.table(contacts);
     }
 
     var init = function() {
